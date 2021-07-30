@@ -1,5 +1,5 @@
 ## Hi, I am birdpeople 
-### who is my?
+### who am my?
  - a CG student :-)
   - Academic interest ： HPC / Deep Learning / Animation & Simulation / Game Engine
 ### Educational background
