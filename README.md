@@ -18,5 +18,5 @@
 ## Funs
  - Arch linux fan
  - 3A games and FPS fan (PC Steam and NS ,etc.)
- - Play a little classical piano (especially on Mozart, Beethvon, Chopin)
+ - Play a little classical piano (especially on Mozart, Beethoven, Chopin)
  
