@@ -12,7 +12,7 @@
  - Real-time and off-line rendering (PBR)
 
 ## Contact me at...
- - luzixuan17@mails.ucas.ac
+ - luzixuan17@mails.ucas.ac.cn
  - birdpeople1984@gmail.com
 
 ## Funs
