@@ -1,4 +1,4 @@
-## Hi, I am birdpeople 
+## Hi, I am ZiXuan (Vicky) Lu
 ### who am I?
  - a CG student :-)
   - Academic interest ： HPC / Deep Learning / Animation & Simulation / Game Engine / Rendering
@@ -12,8 +12,9 @@
  - Real-time and off-line rendering (PBR)
 
 ## Contact me at...
- - luzixuan17@mails.ucas.ac.cn
+ - luzixuan17@mails.ucas.ac.cn (most active)
  - birdpeople1984@gmail.com
+ - luzx@ios.ac.cn
 
 ## Funs
  - Arch linux fan
