@@ -9,7 +9,7 @@
  - Ph.D: UofU, KSoc (2024 Fall-????)
 ### My works include ...
  - Nonlinear FEM, Peridynamic, SPH, Contact Handling, etc.
- - Now I mainly working on real-time cloth animation
+ - Now I'm mainly working on real-time cloth animation
  - High performance computation, mainly on CUDA backend
 ## Contact me at...
  - birdpeople1984@gmail.com (most active, check 007)
